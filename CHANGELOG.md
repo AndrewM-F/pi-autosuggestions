@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.29](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.28...pi-autosuggestions-v0.8.29) (2026-11-16)
+
+
+### Maintenance
+
+* point GitHub references at AndrewM-F ([67691d7](https://github.com/AndrewM-F/pi-autosuggestions/commit/67691d73370430d9c6017529236f8c52f3631310))
+
 ## [0.8.28](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.27...pi-autosuggestions-v0.8.28) (2026-10-24)
 
 
