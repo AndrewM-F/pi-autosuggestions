@@ -1,284 +1,284 @@
 # Changelog
 
-## [0.8.28](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.27...pi-autosuggestions-v0.8.28) (2026-10-24)
+## [0.8.28](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.27...pi-autosuggestions-v0.8.28) (2026-10-24)
 
 
 ### Maintenance
 
-* update Code Foundry to 1.48.8, Pi to 1.4.0, and fix npm 12 pack parsing ([#99](https://github.com/0xPlayerOne/pi-autosuggestions/issues/99)) ([2c156ea](https://github.com/0xPlayerOne/pi-autosuggestions/commit/2c156eaab067f7d1ea3a490f849806bbc0e5fd66))
+* update Code Foundry to 1.48.8, Pi to 1.4.0, and fix npm 12 pack parsing ([#99](https://github.com/AndrewM-F/pi-autosuggestions/issues/99)) ([2c156ea](https://github.com/AndrewM-F/pi-autosuggestions/commit/2c156eaab067f7d1ea3a490f849806bbc0e5fd66))
 
-## [0.8.27](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.26...pi-autosuggestions-v0.8.27) (2026-10-22)
-
-
-### Maintenance
-
-* bun-1.4.4-cloud ([#97](https://github.com/0xPlayerOne/pi-autosuggestions/issues/97)) ([993bee1](https://github.com/0xPlayerOne/pi-autosuggestions/commit/993bee1fa33bb874549bcab12b50315b8f0cdd95))
-
-## [0.8.26](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.25...pi-autosuggestions-v0.8.26) (2026-10-08)
+## [0.8.27](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.26...pi-autosuggestions-v0.8.27) (2026-10-22)
 
 
 ### Maintenance
 
-* **deps:** build against pi 1.1.0 ([#93](https://github.com/0xPlayerOne/pi-autosuggestions/issues/93)) ([9151da1](https://github.com/0xPlayerOne/pi-autosuggestions/commit/9151da11ed2daf518a9cc84edb4ac250beb7a661))
+* bun-1.4.4-cloud ([#97](https://github.com/AndrewM-F/pi-autosuggestions/issues/97)) ([993bee1](https://github.com/AndrewM-F/pi-autosuggestions/commit/993bee1fa33bb874549bcab12b50315b8f0cdd95))
 
-## [0.8.25](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.24...pi-autosuggestions-v0.8.25) (2026-10-08)
-
-
-### Maintenance
-
-* **code-foundry:** upgrade runtime to v1.47.1 ([#91](https://github.com/0xPlayerOne/pi-autosuggestions/issues/91)) ([7f00d4f](https://github.com/0xPlayerOne/pi-autosuggestions/commit/7f00d4fcb93ea24e20c498ff23317ea325199967))
-
-## [0.8.24](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.23...pi-autosuggestions-v0.8.24) (2026-10-03)
+## [0.8.26](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.25...pi-autosuggestions-v0.8.26) (2026-10-08)
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade runtime to v1.44.3 ([#89](https://github.com/0xPlayerOne/pi-autosuggestions/issues/89)) ([1f1809b](https://github.com/0xPlayerOne/pi-autosuggestions/commit/1f1809b55af665e7af291b9a025bbcb1db672424))
+* **deps:** build against pi 1.1.0 ([#93](https://github.com/AndrewM-F/pi-autosuggestions/issues/93)) ([9151da1](https://github.com/AndrewM-F/pi-autosuggestions/commit/9151da11ed2daf518a9cc84edb4ac250beb7a661))
 
-## [0.8.23](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.22...pi-autosuggestions-v0.8.23) (2026-10-02)
-
-
-### Maintenance
-
-* **code-foundry:** upgrade runtime to v1.41.0 ([#87](https://github.com/0xPlayerOne/pi-autosuggestions/issues/87)) ([a60b2c4](https://github.com/0xPlayerOne/pi-autosuggestions/commit/a60b2c45f270063ae88dfb7d5a931dbbc86b408c))
-
-## [0.8.22](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.21...pi-autosuggestions-v0.8.22) (2026-10-02)
+## [0.8.25](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.24...pi-autosuggestions-v0.8.25) (2026-10-08)
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade runtime to v1.40.0 ([#85](https://github.com/0xPlayerOne/pi-autosuggestions/issues/85)) ([75843ff](https://github.com/0xPlayerOne/pi-autosuggestions/commit/75843ff7c848034696450dded349fa2425f1c396))
+* **code-foundry:** upgrade runtime to v1.47.1 ([#91](https://github.com/AndrewM-F/pi-autosuggestions/issues/91)) ([7f00d4f](https://github.com/AndrewM-F/pi-autosuggestions/commit/7f00d4fcb93ea24e20c498ff23317ea325199967))
 
-## [0.8.21](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.20...pi-autosuggestions-v0.8.21) (2026-09-30)
-
-
-### Maintenance
-
-* **code-foundry:** upgrade runtime to v1.38.1 ([#83](https://github.com/0xPlayerOne/pi-autosuggestions/issues/83)) ([034a7f6](https://github.com/0xPlayerOne/pi-autosuggestions/commit/034a7f6e10d9afd9410c4df77c6c1d10b0184602))
-
-## [0.8.20](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.19...pi-autosuggestions-v0.8.20) (2026-09-30)
+## [0.8.24](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.23...pi-autosuggestions-v0.8.24) (2026-10-03)
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade to v1.38.0 ([#81](https://github.com/0xPlayerOne/pi-autosuggestions/issues/81)) ([ab25234](https://github.com/0xPlayerOne/pi-autosuggestions/commit/ab2523421a0a064242b1be395cebd975be8f3547))
+* **code-foundry:** upgrade runtime to v1.44.3 ([#89](https://github.com/AndrewM-F/pi-autosuggestions/issues/89)) ([1f1809b](https://github.com/AndrewM-F/pi-autosuggestions/commit/1f1809b55af665e7af291b9a025bbcb1db672424))
 
-## [0.8.19](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.18...pi-autosuggestions-v0.8.19) (2026-09-30)
+## [0.8.23](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.22...pi-autosuggestions-v0.8.23) (2026-10-02)
+
+
+### Maintenance
+
+* **code-foundry:** upgrade runtime to v1.41.0 ([#87](https://github.com/AndrewM-F/pi-autosuggestions/issues/87)) ([a60b2c4](https://github.com/AndrewM-F/pi-autosuggestions/commit/a60b2c45f270063ae88dfb7d5a931dbbc86b408c))
+
+## [0.8.22](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.21...pi-autosuggestions-v0.8.22) (2026-10-02)
+
+
+### Maintenance
+
+* **code-foundry:** upgrade runtime to v1.40.0 ([#85](https://github.com/AndrewM-F/pi-autosuggestions/issues/85)) ([75843ff](https://github.com/AndrewM-F/pi-autosuggestions/commit/75843ff7c848034696450dded349fa2425f1c396))
+
+## [0.8.21](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.20...pi-autosuggestions-v0.8.21) (2026-09-30)
+
+
+### Maintenance
+
+* **code-foundry:** upgrade runtime to v1.38.1 ([#83](https://github.com/AndrewM-F/pi-autosuggestions/issues/83)) ([034a7f6](https://github.com/AndrewM-F/pi-autosuggestions/commit/034a7f6e10d9afd9410c4df77c6c1d10b0184602))
+
+## [0.8.20](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.19...pi-autosuggestions-v0.8.20) (2026-09-30)
+
+
+### Maintenance
+
+* **code-foundry:** upgrade to v1.38.0 ([#81](https://github.com/AndrewM-F/pi-autosuggestions/issues/81)) ([ab25234](https://github.com/AndrewM-F/pi-autosuggestions/commit/ab2523421a0a064242b1be395cebd975be8f3547))
+
+## [0.8.19](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.18...pi-autosuggestions-v0.8.19) (2026-09-30)
 
 
 ### Bug Fixes
 
-* **editor:** stop the software-blink ghost from overflowing the terminal ([#78](https://github.com/0xPlayerOne/pi-autosuggestions/issues/78)) ([c1854a8](https://github.com/0xPlayerOne/pi-autosuggestions/commit/c1854a826913a1e37de1cf2d7062fd89d870e4cc)), closes [#67](https://github.com/0xPlayerOne/pi-autosuggestions/issues/67)
+* **editor:** stop the software-blink ghost from overflowing the terminal ([#78](https://github.com/AndrewM-F/pi-autosuggestions/issues/78)) ([c1854a8](https://github.com/AndrewM-F/pi-autosuggestions/commit/c1854a826913a1e37de1cf2d7062fd89d870e4cc)), closes [#67](https://github.com/AndrewM-F/pi-autosuggestions/issues/67)
 
-## [0.8.18](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.17...pi-autosuggestions-v0.8.18) (2026-09-30)
-
-
-### Maintenance
-
-* **deps:** update pi to 0.99.1 and pin the editor contract in tests ([#76](https://github.com/0xPlayerOne/pi-autosuggestions/issues/76)) ([74f53df](https://github.com/0xPlayerOne/pi-autosuggestions/commit/74f53dfecad4cb16c86720de0f9ab471d51c0c6a))
-
-## [0.8.17](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.16...pi-autosuggestions-v0.8.17) (2026-09-30)
+## [0.8.18](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.17...pi-autosuggestions-v0.8.18) (2026-09-30)
 
 
 ### Maintenance
 
-* **ci:** switch Dependabot to bun ecosystem for bun.lock repo ([#68](https://github.com/0xPlayerOne/pi-autosuggestions/issues/68)) ([629b0aa](https://github.com/0xPlayerOne/pi-autosuggestions/commit/629b0aaac7afead06e2952a93ab6e49f1cc9b01f))
+* **deps:** update pi to 0.99.1 and pin the editor contract in tests ([#76](https://github.com/AndrewM-F/pi-autosuggestions/issues/76)) ([74f53df](https://github.com/AndrewM-F/pi-autosuggestions/commit/74f53dfecad4cb16c86720de0f9ab471d51c0c6a))
 
-## [0.8.16](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.15...pi-autosuggestions-v0.8.16) (2026-09-29)
-
-
-### Maintenance
-
-* **code-foundry:** upgrade runtime to v1.36.4 ([#71](https://github.com/0xPlayerOne/pi-autosuggestions/issues/71)) ([95c5781](https://github.com/0xPlayerOne/pi-autosuggestions/commit/95c5781db6e090d6f4b1c81f9fd0fcf3093f0a62))
-
-## [0.8.15](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.14...pi-autosuggestions-v0.8.15) (2026-09-29)
+## [0.8.17](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.16...pi-autosuggestions-v0.8.17) (2026-09-30)
 
 
 ### Maintenance
 
-* override undici to 8.10.2 for the two high advisories ([#72](https://github.com/0xPlayerOne/pi-autosuggestions/issues/72)) ([91b5bcf](https://github.com/0xPlayerOne/pi-autosuggestions/commit/91b5bcfc5941f55aeea0059806882aca3cc89d46))
+* **ci:** switch Dependabot to bun ecosystem for bun.lock repo ([#68](https://github.com/AndrewM-F/pi-autosuggestions/issues/68)) ([629b0aa](https://github.com/AndrewM-F/pi-autosuggestions/commit/629b0aaac7afead06e2952a93ab6e49f1cc9b01f))
 
-## [0.8.14](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.13...pi-autosuggestions-v0.8.14) (2026-09-29)
+## [0.8.16](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.15...pi-autosuggestions-v0.8.16) (2026-09-29)
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade runtime to v1.35.0 ([#69](https://github.com/0xPlayerOne/pi-autosuggestions/issues/69)) ([df00219](https://github.com/0xPlayerOne/pi-autosuggestions/commit/df002191fa92e79e06ecbeab534bc3c10b542cdc))
+* **code-foundry:** upgrade runtime to v1.36.4 ([#71](https://github.com/AndrewM-F/pi-autosuggestions/issues/71)) ([95c5781](https://github.com/AndrewM-F/pi-autosuggestions/commit/95c5781db6e090d6f4b1c81f9fd0fcf3093f0a62))
 
-## [0.8.13](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.12...pi-autosuggestions-v0.8.13) (2026-09-18)
+## [0.8.15](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.14...pi-autosuggestions-v0.8.15) (2026-09-29)
+
+
+### Maintenance
+
+* override undici to 8.10.2 for the two high advisories ([#72](https://github.com/AndrewM-F/pi-autosuggestions/issues/72)) ([91b5bcf](https://github.com/AndrewM-F/pi-autosuggestions/commit/91b5bcfc5941f55aeea0059806882aca3cc89d46))
+
+## [0.8.14](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.13...pi-autosuggestions-v0.8.14) (2026-09-29)
+
+
+### Maintenance
+
+* **code-foundry:** upgrade runtime to v1.35.0 ([#69](https://github.com/AndrewM-F/pi-autosuggestions/issues/69)) ([df00219](https://github.com/AndrewM-F/pi-autosuggestions/commit/df002191fa92e79e06ecbeab534bc3c10b542cdc))
+
+## [0.8.13](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.12...pi-autosuggestions-v0.8.13) (2026-09-18)
 
 
 ### Bug Fixes
 
-* complete fleet toolchain alignment ([#64](https://github.com/0xPlayerOne/pi-autosuggestions/issues/64)) ([4f71528](https://github.com/0xPlayerOne/pi-autosuggestions/commit/4f71528d11b7b1e986dcfdcc51be92631eba36b5))
+* complete fleet toolchain alignment ([#64](https://github.com/AndrewM-F/pi-autosuggestions/issues/64)) ([4f71528](https://github.com/AndrewM-F/pi-autosuggestions/commit/4f71528d11b7b1e986dcfdcc51be92631eba36b5))
 
-## [0.8.12](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.11...pi-autosuggestions-v0.8.12) (2026-09-17)
-
-
-### Maintenance
-
-* adopt Code Foundry runtime v1.30.0 ([#62](https://github.com/0xPlayerOne/pi-autosuggestions/issues/62)) ([0e62885](https://github.com/0xPlayerOne/pi-autosuggestions/commit/0e62885b656b10538e7c93e972209d1d40e648d6))
-
-## [0.8.11](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.10...pi-autosuggestions-v0.8.11) (2026-09-17)
+## [0.8.12](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.11...pi-autosuggestions-v0.8.12) (2026-09-17)
 
 
 ### Maintenance
 
-* toolchain-alignment ([#60](https://github.com/0xPlayerOne/pi-autosuggestions/issues/60)) ([311f65e](https://github.com/0xPlayerOne/pi-autosuggestions/commit/311f65e185aa570615d49abe040eb09366868141))
+* adopt Code Foundry runtime v1.30.0 ([#62](https://github.com/AndrewM-F/pi-autosuggestions/issues/62)) ([0e62885](https://github.com/AndrewM-F/pi-autosuggestions/commit/0e62885b656b10538e7c93e972209d1d40e648d6))
 
-## [0.8.10](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.9...pi-autosuggestions-v0.8.10) (2026-09-17)
-
-
-### Maintenance
-
-* standardize lint and format toolchain ([#57](https://github.com/0xPlayerOne/pi-autosuggestions/issues/57)) ([ce4ffce](https://github.com/0xPlayerOne/pi-autosuggestions/commit/ce4ffce20fe66603f8b0e64a40b0f2654d4858bd))
-
-## [0.8.9](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.8...pi-autosuggestions-v0.8.9) (2026-09-11)
+## [0.8.11](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.10...pi-autosuggestions-v0.8.11) (2026-09-17)
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade runtime to v1.28.14 ([#54](https://github.com/0xPlayerOne/pi-autosuggestions/issues/54)) ([691e2ff](https://github.com/0xPlayerOne/pi-autosuggestions/commit/691e2ffead8a4c61776e3bfcab17fccbbcd9692c))
+* toolchain-alignment ([#60](https://github.com/AndrewM-F/pi-autosuggestions/issues/60)) ([311f65e](https://github.com/AndrewM-F/pi-autosuggestions/commit/311f65e185aa570615d49abe040eb09366868141))
 
-## [0.8.8](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.7...pi-autosuggestions-v0.8.8) (2026-09-11)
-
-
-### Maintenance
-
-* **code-foundry:** upgrade runtime to v1.28.11 ([#52](https://github.com/0xPlayerOne/pi-autosuggestions/issues/52)) ([4a7c01e](https://github.com/0xPlayerOne/pi-autosuggestions/commit/4a7c01e6b199bf46fcc94cd7bec92dedd3ad3f2f))
-
-## [0.8.7](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.6...pi-autosuggestions-v0.8.7) (2026-09-11)
+## [0.8.10](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.9...pi-autosuggestions-v0.8.10) (2026-09-17)
 
 
 ### Maintenance
 
-* **config:** right-size runner lanes and drop default shard overrides ([#50](https://github.com/0xPlayerOne/pi-autosuggestions/issues/50)) ([b118f01](https://github.com/0xPlayerOne/pi-autosuggestions/commit/b118f01b2fd85babe173fb953bb0f9f22b8dba96))
+* standardize lint and format toolchain ([#57](https://github.com/AndrewM-F/pi-autosuggestions/issues/57)) ([ce4ffce](https://github.com/AndrewM-F/pi-autosuggestions/commit/ce4ffce20fe66603f8b0e64a40b0f2654d4858bd))
 
-## [0.8.6](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.5...pi-autosuggestions-v0.8.6) (2026-09-10)
-
-
-### Maintenance
-
-* **code-foundry:** upgrade runtime to v1.28.4 ([7619db4](https://github.com/0xPlayerOne/pi-autosuggestions/commit/7619db4e497951cb2a487e874cfae176fe6f96d8))
-
-## [0.8.5](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.4...pi-autosuggestions-v0.8.5) (2026-09-08)
+## [0.8.9](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.8...pi-autosuggestions-v0.8.9) (2026-09-11)
 
 
 ### Maintenance
 
-* **ci:** upgrade Code Foundry to v1.9.11 ([#44](https://github.com/0xPlayerOne/pi-autosuggestions/issues/44)) ([fe68d36](https://github.com/0xPlayerOne/pi-autosuggestions/commit/fe68d3605dfe7922848c38250a6c5e127a90813a))
+* **code-foundry:** upgrade runtime to v1.28.14 ([#54](https://github.com/AndrewM-F/pi-autosuggestions/issues/54)) ([691e2ff](https://github.com/AndrewM-F/pi-autosuggestions/commit/691e2ffead8a4c61776e3bfcab17fccbbcd9692c))
 
-## [0.8.4](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.3...pi-autosuggestions-v0.8.4) (2026-09-08)
+## [0.8.8](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.7...pi-autosuggestions-v0.8.8) (2026-09-11)
+
+
+### Maintenance
+
+* **code-foundry:** upgrade runtime to v1.28.11 ([#52](https://github.com/AndrewM-F/pi-autosuggestions/issues/52)) ([4a7c01e](https://github.com/AndrewM-F/pi-autosuggestions/commit/4a7c01e6b199bf46fcc94cd7bec92dedd3ad3f2f))
+
+## [0.8.7](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.6...pi-autosuggestions-v0.8.7) (2026-09-11)
+
+
+### Maintenance
+
+* **config:** right-size runner lanes and drop default shard overrides ([#50](https://github.com/AndrewM-F/pi-autosuggestions/issues/50)) ([b118f01](https://github.com/AndrewM-F/pi-autosuggestions/commit/b118f01b2fd85babe173fb953bb0f9f22b8dba96))
+
+## [0.8.6](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.5...pi-autosuggestions-v0.8.6) (2026-09-10)
+
+
+### Maintenance
+
+* **code-foundry:** upgrade runtime to v1.28.4 ([7619db4](https://github.com/AndrewM-F/pi-autosuggestions/commit/7619db4e497951cb2a487e874cfae176fe6f96d8))
+
+## [0.8.5](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.4...pi-autosuggestions-v0.8.5) (2026-09-08)
+
+
+### Maintenance
+
+* **ci:** upgrade Code Foundry to v1.9.11 ([#44](https://github.com/AndrewM-F/pi-autosuggestions/issues/44)) ([fe68d36](https://github.com/AndrewM-F/pi-autosuggestions/commit/fe68d3605dfe7922848c38250a6c5e127a90813a))
+
+## [0.8.4](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.3...pi-autosuggestions-v0.8.4) (2026-09-08)
 
 
 ### Performance
 
-* add plugin performance regression budgets ([#42](https://github.com/0xPlayerOne/pi-autosuggestions/issues/42)) ([c16eaac](https://github.com/0xPlayerOne/pi-autosuggestions/commit/c16eaac3771ee30bba570498c1089c1330882508)), closes [#39](https://github.com/0xPlayerOne/pi-autosuggestions/issues/39)
+* add plugin performance regression budgets ([#42](https://github.com/AndrewM-F/pi-autosuggestions/issues/42)) ([c16eaac](https://github.com/AndrewM-F/pi-autosuggestions/commit/c16eaac3771ee30bba570498c1089c1330882508)), closes [#39](https://github.com/AndrewM-F/pi-autosuggestions/issues/39)
 
-## [0.8.3](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.2...pi-autosuggestions-v0.8.3) (2026-09-08)
+## [0.8.3](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.2...pi-autosuggestions-v0.8.3) (2026-09-08)
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade to v1.5.0 ([#40](https://github.com/0xPlayerOne/pi-autosuggestions/issues/40)) ([f54e6ab](https://github.com/0xPlayerOne/pi-autosuggestions/commit/f54e6ab9225e32dd69935f136755d3dc155e04fd))
+* **code-foundry:** upgrade to v1.5.0 ([#40](https://github.com/AndrewM-F/pi-autosuggestions/issues/40)) ([f54e6ab](https://github.com/AndrewM-F/pi-autosuggestions/commit/f54e6ab9225e32dd69935f136755d3dc155e04fd))
 
-## [0.8.2](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.1...pi-autosuggestions-v0.8.2) (2026-09-07)
+## [0.8.2](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.1...pi-autosuggestions-v0.8.2) (2026-09-07)
 
 
 ### Bug Fixes
 
-* **ci:** pin generated callers to the adopted v1.4.1 runtime ([#38](https://github.com/0xPlayerOne/pi-autosuggestions/issues/38)) ([8c35f25](https://github.com/0xPlayerOne/pi-autosuggestions/commit/8c35f25ff91d420b8e78ff24e6026c0e4ca4bd2d))
+* **ci:** pin generated callers to the adopted v1.4.1 runtime ([#38](https://github.com/AndrewM-F/pi-autosuggestions/issues/38)) ([8c35f25](https://github.com/AndrewM-F/pi-autosuggestions/commit/8c35f25ff91d420b8e78ff24e6026c0e4ca4bd2d))
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade to v1.4.1 ([#35](https://github.com/0xPlayerOne/pi-autosuggestions/issues/35)) ([b5c80fa](https://github.com/0xPlayerOne/pi-autosuggestions/commit/b5c80fa478bc20d3e52719ecbfeecb8c21113844))
+* **code-foundry:** upgrade to v1.4.1 ([#35](https://github.com/AndrewM-F/pi-autosuggestions/issues/35)) ([b5c80fa](https://github.com/AndrewM-F/pi-autosuggestions/commit/b5c80fa478bc20d3e52719ecbfeecb8c21113844))
 
-## [0.8.1](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.8.0...pi-autosuggestions-v0.8.1) (2026-09-07)
+## [0.8.1](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.0...pi-autosuggestions-v0.8.1) (2026-09-07)
 
 
 ### Maintenance
 
-* adopt code-foundry v1.3.1 baseline and migrate to oxlint/oxfmt ([#33](https://github.com/0xPlayerOne/pi-autosuggestions/issues/33)) ([361a65a](https://github.com/0xPlayerOne/pi-autosuggestions/commit/361a65a4682677b9e19e867d0b393ea991257292))
+* adopt code-foundry v1.3.1 baseline and migrate to oxlint/oxfmt ([#33](https://github.com/AndrewM-F/pi-autosuggestions/issues/33)) ([361a65a](https://github.com/AndrewM-F/pi-autosuggestions/commit/361a65a4682677b9e19e867d0b393ea991257292))
 
-## [0.8.0](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.7.10...pi-autosuggestions-v0.8.0) (2026-09-07)
+## [0.8.0](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.7.10...pi-autosuggestions-v0.8.0) (2026-09-07)
 
 
 ### Features
 
-* migrate formatting and linting from Prettier/ESLint to oxfmt/oxlint ([#31](https://github.com/0xPlayerOne/pi-autosuggestions/issues/31)) ([a0aff36](https://github.com/0xPlayerOne/pi-autosuggestions/commit/a0aff36e10e72dc8592d2c481d94678f900b6dff))
+* migrate formatting and linting from Prettier/ESLint to oxfmt/oxlint ([#31](https://github.com/AndrewM-F/pi-autosuggestions/issues/31)) ([a0aff36](https://github.com/AndrewM-F/pi-autosuggestions/commit/a0aff36e10e72dc8592d2c481d94678f900b6dff))
 
-## [0.7.10](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.7.9...pi-autosuggestions-v0.7.10) (2026-09-06)
-
-
-### Maintenance
-
-* adopt code-foundry v1.1.1 baseline ([#28](https://github.com/0xPlayerOne/pi-autosuggestions/issues/28)) ([53bc259](https://github.com/0xPlayerOne/pi-autosuggestions/commit/53bc2590ddfada556b4e8be72e170c142e49ea4e))
-
-## [0.7.9](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.7.8...pi-autosuggestions-v0.7.9) (2026-09-06)
+## [0.7.10](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.7.9...pi-autosuggestions-v0.7.10) (2026-09-06)
 
 
 ### Maintenance
 
-* **sync:** adopt code-foundry v1.0.4 baseline ([248ee8a](https://github.com/0xPlayerOne/pi-autosuggestions/commit/248ee8aba33685c29343c7d298bee57ad1b37581))
+* adopt code-foundry v1.1.1 baseline ([#28](https://github.com/AndrewM-F/pi-autosuggestions/issues/28)) ([53bc259](https://github.com/AndrewM-F/pi-autosuggestions/commit/53bc2590ddfada556b4e8be72e170c142e49ea4e))
 
-## [0.7.8](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.7.7...pi-autosuggestions-v0.7.8) (2026-09-06)
+## [0.7.9](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.7.8...pi-autosuggestions-v0.7.9) (2026-09-06)
 
 
 ### Maintenance
 
-* **sync:** adopt code-foundry v1.0.3 baseline ([1f37cc5](https://github.com/0xPlayerOne/pi-autosuggestions/commit/1f37cc5c679a686a5452846a9bd147ce9cd598c1))
+* **sync:** adopt code-foundry v1.0.4 baseline ([248ee8a](https://github.com/AndrewM-F/pi-autosuggestions/commit/248ee8aba33685c29343c7d298bee57ad1b37581))
 
-## [0.7.7](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.7.6...pi-autosuggestions-v0.7.7) (2026-09-06)
+## [0.7.8](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.7.7...pi-autosuggestions-v0.7.8) (2026-09-06)
+
+
+### Maintenance
+
+* **sync:** adopt code-foundry v1.0.3 baseline ([1f37cc5](https://github.com/AndrewM-F/pi-autosuggestions/commit/1f37cc5c679a686a5452846a9bd147ce9cd598c1))
+
+## [0.7.7](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.7.6...pi-autosuggestions-v0.7.7) (2026-09-06)
 
 
 ### Documentation
 
-* keybindings, troubleshooting, schematic, and current install pin ([0c37efa](https://github.com/0xPlayerOne/pi-autosuggestions/commit/0c37efa0d9bcc3131c2356ead9f40338b33bf022))
+* keybindings, troubleshooting, schematic, and current install pin ([0c37efa](https://github.com/AndrewM-F/pi-autosuggestions/commit/0c37efa0d9bcc3131c2356ead9f40338b33bf022))
 
-## [0.7.6](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.7.5...pi-autosuggestions-v0.7.6) (2026-09-06)
-
-
-### Maintenance
-
-* **sync:** adopt code-foundry v1.0.2 baseline ([2a737c7](https://github.com/0xPlayerOne/pi-autosuggestions/commit/2a737c79f234d2ee07575313b6018a2d4341b595))
-
-## [0.7.5](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.7.4...pi-autosuggestions-v0.7.5) (2026-09-05)
+## [0.7.6](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.7.5...pi-autosuggestions-v0.7.6) (2026-09-06)
 
 
 ### Maintenance
 
-* **sync:** adopt code-foundry v1.0.1 baseline ([4b8f866](https://github.com/0xPlayerOne/pi-autosuggestions/commit/4b8f8664a5d3fd3b0310222470d33b78885e6896))
+* **sync:** adopt code-foundry v1.0.2 baseline ([2a737c7](https://github.com/AndrewM-F/pi-autosuggestions/commit/2a737c79f234d2ee07575313b6018a2d4341b595))
 
-## [0.7.4](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.7.3...pi-autosuggestions-v0.7.4) (2026-09-05)
-
-
-### Maintenance
-
-* **ci:** publish releases to npm ([68e2946](https://github.com/0xPlayerOne/pi-autosuggestions/commit/68e29468f6ed39d896a60c1f1fafaa4608372213))
-
-## [0.7.3](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.7.2...pi-autosuggestions-v0.7.3) (2026-09-05)
+## [0.7.5](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.7.4...pi-autosuggestions-v0.7.5) (2026-09-05)
 
 
 ### Maintenance
 
-* **sync:** adopt code-foundry v1.0.0 baseline ([e83fa5c](https://github.com/0xPlayerOne/pi-autosuggestions/commit/e83fa5c7076d458f654c3f8af3e61dbc407f877e))
+* **sync:** adopt code-foundry v1.0.1 baseline ([4b8f866](https://github.com/AndrewM-F/pi-autosuggestions/commit/4b8f8664a5d3fd3b0310222470d33b78885e6896))
 
-## [0.7.2](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.7.1...pi-autosuggestions-v0.7.2) (2026-09-05)
-
-
-### Maintenance
-
-* **sync:** adopt code-foundry v0.40.3 baseline ([2c44da5](https://github.com/0xPlayerOne/pi-autosuggestions/commit/2c44da52420fde5b3d91fecc25383fb0aa94deef))
-
-## [0.7.1](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.7.0...pi-autosuggestions-v0.7.1) (2026-09-05)
+## [0.7.4](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.7.3...pi-autosuggestions-v0.7.4) (2026-09-05)
 
 
 ### Maintenance
 
-* **ci:** preserve authored MIT license on sync ([34bed9c](https://github.com/0xPlayerOne/pi-autosuggestions/commit/34bed9c7890afcc1fc2b5927c10398027f781c13))
+* **ci:** publish releases to npm ([68e2946](https://github.com/AndrewM-F/pi-autosuggestions/commit/68e29468f6ed39d896a60c1f1fafaa4608372213))
 
-## [0.7.0](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.6.3...pi-autosuggestions-v0.7.0) (2026-09-05)
+## [0.7.3](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.7.2...pi-autosuggestions-v0.7.3) (2026-09-05)
+
+
+### Maintenance
+
+* **sync:** adopt code-foundry v1.0.0 baseline ([e83fa5c](https://github.com/AndrewM-F/pi-autosuggestions/commit/e83fa5c7076d458f654c3f8af3e61dbc407f877e))
+
+## [0.7.2](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.7.1...pi-autosuggestions-v0.7.2) (2026-09-05)
+
+
+### Maintenance
+
+* **sync:** adopt code-foundry v0.40.3 baseline ([2c44da5](https://github.com/AndrewM-F/pi-autosuggestions/commit/2c44da52420fde5b3d91fecc25383fb0aa94deef))
+
+## [0.7.1](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.7.0...pi-autosuggestions-v0.7.1) (2026-09-05)
+
+
+### Maintenance
+
+* **ci:** preserve authored MIT license on sync ([34bed9c](https://github.com/AndrewM-F/pi-autosuggestions/commit/34bed9c7890afcc1fc2b5927c10398027f781c13))
+
+## [0.7.0](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.6.3...pi-autosuggestions-v0.7.0) (2026-09-05)
 
 
 ### ⚠ BREAKING CHANGES
@@ -287,107 +287,107 @@
 
 ### Maintenance
 
-* adopt shared repo layout with src build and full baseline ([ced5cbc](https://github.com/0xPlayerOne/pi-autosuggestions/commit/ced5cbc75d34f166359eff54d4bab67debd99656))
+* adopt shared repo layout with src build and full baseline ([ced5cbc](https://github.com/AndrewM-F/pi-autosuggestions/commit/ced5cbc75d34f166359eff54d4bab67debd99656))
 
-## [0.6.3](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.6.2...pi-autosuggestions-v0.6.3) (2026-09-05)
-
-### Maintenance
-
-- **ci:** adopt code-foundry v0.40.2 runtime ([df4f46c](https://github.com/0xPlayerOne/pi-autosuggestions/commit/df4f46c48431d4f3655a8a2f5ed28a383cafb8d1))
-
-## [0.6.2](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.6.1...pi-autosuggestions-v0.6.2) (2026-09-05)
-
-### Bug Fixes
-
-- declare engines and limit published files for light installs ([8881ab4](https://github.com/0xPlayerOne/pi-autosuggestions/commit/8881ab4c63ca694cc4d3ee56af1963b538f0050e))
-
-## [0.6.1](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.6.0...pi-autosuggestions-v0.6.1) (2026-09-05)
-
-### Documentation
-
-- correct cursor description, remove unused theme helpers ([681f22d](https://github.com/0xPlayerOne/pi-autosuggestions/commit/681f22d629b6d5251e8c4543a288814855e633c5))
-
-## [0.6.0](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.5.0...pi-autosuggestions-v0.6.0) (2026-09-05)
-
-### Features
-
-- cross-session history, candidate cycling, theme-aware cursor, new dynamic sources ([71fe236](https://github.com/0xPlayerOne/pi-autosuggestions/commit/71fe236ac272d54432da96aa35e53a919102f657))
-
-## [0.5.0](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.4.0...pi-autosuggestions-v0.5.0) (2026-09-04)
-
-### Features
-
-- dynamic completions and expanded command tables ([4e99186](https://github.com/0xPlayerOne/pi-autosuggestions/commit/4e991868049694c1f973bc8ab2069af433c8bf4c))
-
-## [0.4.0](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.3.3...pi-autosuggestions-v0.4.0) (2026-09-04)
-
-### Features
-
-- subcommand completion for common bash commands ([3b17e1c](https://github.com/0xPlayerOne/pi-autosuggestions/commit/3b17e1cc5c6ee0ef92b5f2f564a9f8a7ce896411))
-
-## [0.3.3](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.3.2...pi-autosuggestions-v0.3.3) (2026-09-04)
-
-### Bug Fixes
-
-- force white blinking bar cursor in terminals with themed cursors ([20a3a24](https://github.com/0xPlayerOne/pi-autosuggestions/commit/20a3a2499cad2ec3a83e1c8d1edd0c96b6d6a2ee))
-
-## [0.3.2](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.3.1...pi-autosuggestions-v0.3.2) (2026-09-04)
-
-### Bug Fixes
-
-- use the terminal's native blinking bar cursor ([2abf68b](https://github.com/0xPlayerOne/pi-autosuggestions/commit/2abf68b1f226c9b62ec2c9cdebeb3375601de632))
-
-## [0.3.1](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.3.0...pi-autosuggestions-v0.3.1) (2026-09-04)
-
-### Bug Fixes
-
-- keep the character under the cursor visible while the beam blinks ([16833a7](https://github.com/0xPlayerOne/pi-autosuggestions/commit/16833a788d30fb92e99a98fd29927d2ecaed8790))
-
-## [0.3.0](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.2.4...pi-autosuggestions-v0.3.0) (2026-09-04)
-
-### Features
-
-- command-name completion from PATH at the bash command position ([9b4eef6](https://github.com/0xPlayerOne/pi-autosuggestions/commit/9b4eef62c780979fc972cb2d304eeefe8fd98db7))
-
-## [0.2.4](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.2.3...pi-autosuggestions-v0.2.4) (2026-09-04)
-
-### CI
-
-- route releases through code-foundry ([2747d07](https://github.com/0xPlayerOne/pi-autosuggestions/commit/2747d07ba79a33c77bbca3c0f6fd1228eaeb3298))
-
-## [0.2.3](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.2.2...pi-autosuggestions-v0.2.3) (2026-09-04)
-
-### CI
-
-- test code-foundry reusable workflow call (diagnostic) ([1316ff9](https://github.com/0xPlayerOne/pi-autosuggestions/commit/1316ff92b6d650d8985520cbb2544fc21651d714))
-
-## [0.2.2](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.2.1...pi-autosuggestions-v0.2.2) (2026-09-04)
-
-### Documentation
-
-- correct pinned release tag format in install instructions ([e936ed4](https://github.com/0xPlayerOne/pi-autosuggestions/commit/e936ed4001a9e73e0e1f0a8cea54c5d0fef47c36))
-
-## [0.2.1](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.2.0...pi-autosuggestions-v0.2.1) (2026-09-04)
-
-### Bug Fixes
-
-- add repository metadata required for npm provenance ([cfddf8d](https://github.com/0xPlayerOne/pi-autosuggestions/commit/cfddf8d17f9f359b6f73ec9e0fb68b67748de0d6))
-
-## [0.2.0](https://github.com/0xPlayerOne/pi-autosuggestions/compare/pi-autosuggestions-v0.1.0...pi-autosuggestions-v0.2.0) (2026-09-04)
-
-### Features
-
-- add zsh-autosuggestions history strategy and partial accept ([951cd11](https://github.com/0xPlayerOne/pi-autosuggestions/commit/951cd1148f8ce63230efbbf6d6815d31048cbd03))
-
-### CI
-
-- add workflow_dispatch to release workflow ([599b7bb](https://github.com/0xPlayerOne/pi-autosuggestions/commit/599b7bbcb6460fe0550657e26a237652dc358d33))
-- declare root package in release-please config ([7d505b9](https://github.com/0xPlayerOne/pi-autosuggestions/commit/7d505b9a0dcbef26162844baf7c02f09063090c7))
-- match canonical code-foundry release caller shape ([8533336](https://github.com/0xPlayerOne/pi-autosuggestions/commit/85333360daa61d803d19020fad1b87f2d418aa11))
-- minimal reusable workflow call test ([3864ab0](https://github.com/0xPlayerOne/pi-autosuggestions/commit/3864ab07d929fee682c10b6f7dcd005dcb59bf00))
-- self-contained release-please and npm publish flow ([b56cf97](https://github.com/0xPlayerOne/pi-autosuggestions/commit/b56cf978b691f54afd93f739c63ba316ecbd7b84))
-- test v0.39.0 ref ([be7e2d5](https://github.com/0xPlayerOne/pi-autosuggestions/commit/be7e2d503dd6543850ffd926dc0e44efc5c77a9d))
+## [0.6.3](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.6.2...pi-autosuggestions-v0.6.3) (2026-09-05)
 
 ### Maintenance
 
-- rename package to pi-autosuggestions and adopt code-foundry release flow ([57b7265](https://github.com/0xPlayerOne/pi-autosuggestions/commit/57b7265afd63b4bcb65f5f8ac7ff9507fc820b5c))
+- **ci:** adopt code-foundry v0.40.2 runtime ([df4f46c](https://github.com/AndrewM-F/pi-autosuggestions/commit/df4f46c48431d4f3655a8a2f5ed28a383cafb8d1))
+
+## [0.6.2](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.6.1...pi-autosuggestions-v0.6.2) (2026-09-05)
+
+### Bug Fixes
+
+- declare engines and limit published files for light installs ([8881ab4](https://github.com/AndrewM-F/pi-autosuggestions/commit/8881ab4c63ca694cc4d3ee56af1963b538f0050e))
+
+## [0.6.1](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.6.0...pi-autosuggestions-v0.6.1) (2026-09-05)
+
+### Documentation
+
+- correct cursor description, remove unused theme helpers ([681f22d](https://github.com/AndrewM-F/pi-autosuggestions/commit/681f22d629b6d5251e8c4543a288814855e633c5))
+
+## [0.6.0](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.5.0...pi-autosuggestions-v0.6.0) (2026-09-05)
+
+### Features
+
+- cross-session history, candidate cycling, theme-aware cursor, new dynamic sources ([71fe236](https://github.com/AndrewM-F/pi-autosuggestions/commit/71fe236ac272d54432da96aa35e53a919102f657))
+
+## [0.5.0](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.4.0...pi-autosuggestions-v0.5.0) (2026-09-04)
+
+### Features
+
+- dynamic completions and expanded command tables ([4e99186](https://github.com/AndrewM-F/pi-autosuggestions/commit/4e991868049694c1f973bc8ab2069af433c8bf4c))
+
+## [0.4.0](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.3.3...pi-autosuggestions-v0.4.0) (2026-09-04)
+
+### Features
+
+- subcommand completion for common bash commands ([3b17e1c](https://github.com/AndrewM-F/pi-autosuggestions/commit/3b17e1cc5c6ee0ef92b5f2f564a9f8a7ce896411))
+
+## [0.3.3](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.3.2...pi-autosuggestions-v0.3.3) (2026-09-04)
+
+### Bug Fixes
+
+- force white blinking bar cursor in terminals with themed cursors ([20a3a24](https://github.com/AndrewM-F/pi-autosuggestions/commit/20a3a2499cad2ec3a83e1c8d1edd0c96b6d6a2ee))
+
+## [0.3.2](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.3.1...pi-autosuggestions-v0.3.2) (2026-09-04)
+
+### Bug Fixes
+
+- use the terminal's native blinking bar cursor ([2abf68b](https://github.com/AndrewM-F/pi-autosuggestions/commit/2abf68b1f226c9b62ec2c9cdebeb3375601de632))
+
+## [0.3.1](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.3.0...pi-autosuggestions-v0.3.1) (2026-09-04)
+
+### Bug Fixes
+
+- keep the character under the cursor visible while the beam blinks ([16833a7](https://github.com/AndrewM-F/pi-autosuggestions/commit/16833a788d30fb92e99a98fd29927d2ecaed8790))
+
+## [0.3.0](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.2.4...pi-autosuggestions-v0.3.0) (2026-09-04)
+
+### Features
+
+- command-name completion from PATH at the bash command position ([9b4eef6](https://github.com/AndrewM-F/pi-autosuggestions/commit/9b4eef62c780979fc972cb2d304eeefe8fd98db7))
+
+## [0.2.4](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.2.3...pi-autosuggestions-v0.2.4) (2026-09-04)
+
+### CI
+
+- route releases through code-foundry ([2747d07](https://github.com/AndrewM-F/pi-autosuggestions/commit/2747d07ba79a33c77bbca3c0f6fd1228eaeb3298))
+
+## [0.2.3](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.2.2...pi-autosuggestions-v0.2.3) (2026-09-04)
+
+### CI
+
+- test code-foundry reusable workflow call (diagnostic) ([1316ff9](https://github.com/AndrewM-F/pi-autosuggestions/commit/1316ff92b6d650d8985520cbb2544fc21651d714))
+
+## [0.2.2](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.2.1...pi-autosuggestions-v0.2.2) (2026-09-04)
+
+### Documentation
+
+- correct pinned release tag format in install instructions ([e936ed4](https://github.com/AndrewM-F/pi-autosuggestions/commit/e936ed4001a9e73e0e1f0a8cea54c5d0fef47c36))
+
+## [0.2.1](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.2.0...pi-autosuggestions-v0.2.1) (2026-09-04)
+
+### Bug Fixes
+
+- add repository metadata required for npm provenance ([cfddf8d](https://github.com/AndrewM-F/pi-autosuggestions/commit/cfddf8d17f9f359b6f73ec9e0fb68b67748de0d6))
+
+## [0.2.0](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.1.0...pi-autosuggestions-v0.2.0) (2026-09-04)
+
+### Features
+
+- add zsh-autosuggestions history strategy and partial accept ([951cd11](https://github.com/AndrewM-F/pi-autosuggestions/commit/951cd1148f8ce63230efbbf6d6815d31048cbd03))
+
+### CI
+
+- add workflow_dispatch to release workflow ([599b7bb](https://github.com/AndrewM-F/pi-autosuggestions/commit/599b7bbcb6460fe0550657e26a237652dc358d33))
+- declare root package in release-please config ([7d505b9](https://github.com/AndrewM-F/pi-autosuggestions/commit/7d505b9a0dcbef26162844baf7c02f09063090c7))
+- match canonical code-foundry release caller shape ([8533336](https://github.com/AndrewM-F/pi-autosuggestions/commit/85333360daa61d803d19020fad1b87f2d418aa11))
+- minimal reusable workflow call test ([3864ab0](https://github.com/AndrewM-F/pi-autosuggestions/commit/3864ab07d929fee682c10b6f7dcd005dcb59bf00))
+- self-contained release-please and npm publish flow ([b56cf97](https://github.com/AndrewM-F/pi-autosuggestions/commit/b56cf978b691f54afd93f739c63ba316ecbd7b84))
+- test v0.39.0 ref ([be7e2d5](https://github.com/AndrewM-F/pi-autosuggestions/commit/be7e2d503dd6543850ffd926dc0e44efc5c77a9d))
+
+### Maintenance
+
+- rename package to pi-autosuggestions and adopt code-foundry release flow ([57b7265](https://github.com/AndrewM-F/pi-autosuggestions/commit/57b7265afd63b4bcb65f5f8ac7ff9507fc820b5c))

@@ -13,7 +13,7 @@ you type:  !cd Desk
 you see:   !cd Desktop/     ( dimmed "top/", first char is your blinking cursor )
 ```
 
-![Ghost completion schematic](https://raw.githubusercontent.com/0xPlayerOne/pi-autosuggestions/main/docs/assets/ghost-schematic.svg)
+![Ghost completion schematic](https://raw.githubusercontent.com/AndrewM-F/pi-autosuggestions/main/docs/assets/ghost-schematic.svg)
 
 ## Install
 
@@ -22,7 +22,7 @@ pi install npm:pi-autosuggestions
 # or pinned:
 pi install npm:pi-autosuggestions@0.7.6
 # or from git:
-pi install git:github.com/0xPlayerOne/pi-autosuggestions
+pi install git:github.com/AndrewM-F/pi-autosuggestions
 ```
 
 ## Configuration
