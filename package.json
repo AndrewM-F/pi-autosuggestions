@@ -10,15 +10,15 @@
     "pi-package",
     "zsh"
   ],
-  "homepage": "https://github.com/0xPlayerOne/pi-autosuggestions#readme",
+  "homepage": "https://github.com/AndrewM-F/pi-autosuggestions#readme",
   "bugs": {
-    "url": "https://github.com/0xPlayerOne/pi-autosuggestions/issues"
+    "url": "https://github.com/AndrewM-F/pi-autosuggestions/issues"
   },
   "license": "MIT",
-  "author": "Andrew Mahoney-Fernandes <0xPlayerOne>",
+  "author": "Andrew Mahoney-Fernandes <AndrewM-F>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/0xPlayerOne/pi-autosuggestions.git"
+    "url": "https://github.com/AndrewM-F/pi-autosuggestions.git"
   },
   "files": [
     "dist",
