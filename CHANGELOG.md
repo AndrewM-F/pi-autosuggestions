@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.8.30](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.29...pi-autosuggestions-v0.8.30) (2026-11-16)
+
+
+### Bug Fixes
+
+* verify trusted publishing via OIDC ([009a892](https://github.com/AndrewM-F/pi-autosuggestions/commit/009a89288d87295037b69b7cea0bb195a6d80d4a))
+
+
+### Maintenance
+
+* **deps-dev:** bump the bun-dependencies group across 1 directory with 4 updates ([#103](https://github.com/AndrewM-F/pi-autosuggestions/issues/103)) ([1cefba8](https://github.com/AndrewM-F/pi-autosuggestions/commit/1cefba8fc87b1b1430f1186a0caf94c08da401f6))
+
 ## [0.8.29](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.28...pi-autosuggestions-v0.8.29) (2026-11-16)
 
 
