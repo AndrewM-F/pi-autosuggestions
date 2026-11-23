@@ -117,6 +117,33 @@ function assertFits(editor, width) {
   }
 }
 
+/** Submit prompts the way pi does, then type a prefix of them. */
+function ghostEditor(prompts, text) {
+  const { editor } = createEditor()
+  editor.onSubmit = () => {}
+  for (const prompt of prompts) {
+    editor.onSubmit(prompt)
+  }
+  editor.setText(text)
+  return editor
+}
+
+/** The visible text of the ghost row (cursor cell and padding removed). */
+function ghostRowText(editor) {
+  const row = editor.render(80).find((line) => DIM.test(line))
+  assert.ok(row, 'no ghost row was rendered')
+  return stripAnsi(row).trim()
+}
+
+/** A history entry whose ghost fills the line from a one-character prefix. */
+function fillTheLine(width, hardwareCursor) {
+  const { editor } = createEditor({ columns: width, hardwareCursor })
+  editor.onSubmit = () => {}
+  editor.onSubmit('r' + 'x'.repeat(width - 1))
+  editor.setText('r')
+  return editor
+}
+
 describe('pi/pi-tui contract', () => {
   it('exposes the editor internals the extension shadows', () => {
     // Each of these is `private` in the .d.ts, so a pi upgrade can remove or
@@ -222,24 +249,6 @@ describe('custom editor', () => {
 // text, so it must consume the new markers without leaking them and without
 // dropping the marker the TUI uses to park the hardware cursor.
 describe('ghost keyboard contract (pi 1.4)', () => {
-  /** Submit prompts the way pi does, then type a prefix of them. */
-  function ghostEditor(prompts, text) {
-    const { editor } = createEditor()
-    editor.onSubmit = () => {}
-    for (const prompt of prompts) {
-      editor.onSubmit(prompt)
-    }
-    editor.setText(text)
-    return editor
-  }
-
-  /** The visible text of the ghost row (cursor cell and padding removed). */
-  function ghostRowText(editor) {
-    const row = editor.render(80).find((line) => DIM.test(line))
-    assert.ok(row, 'no ghost row was rendered')
-    return stripAnsi(row).trim()
-  }
-
   it('accepts the whole ghost on right arrow', () => {
     const editor = ghostEditor(['git status --short'], 'git st')
     editor.handleInput('\x1b[C')
@@ -302,15 +311,6 @@ describe('ghost keyboard contract (pi 1.4)', () => {
 // the beam as its own cell, so a ghost long enough to reach the end of the line
 // came out one column too wide.
 describe('render width (issue #67)', () => {
-  /** A history entry whose ghost fills the line from a one-character prefix. */
-  function fillTheLine(width, hardwareCursor) {
-    const { editor } = createEditor({ columns: width, hardwareCursor })
-    editor.onSubmit = () => {}
-    editor.onSubmit('r' + 'x'.repeat(width - 1))
-    editor.setText('r')
-    return editor
-  }
-
   for (const hardwareCursor of [false, true]) {
     const path = hardwareCursor ? 'hardware-cursor path' : 'software-blink fallback'
     it(`keeps a full-width ghost within the terminal on the ${path}`, () => {
