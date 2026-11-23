@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.31](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.30...pi-autosuggestions-v0.8.31) (2026-11-23)
+
+
+### Maintenance
+
+* **deps-dev:** bump oxfmt to 0.79.0 and oxlint to 1.94.0 ([#108](https://github.com/AndrewM-F/pi-autosuggestions/issues/108)) ([4885bd3](https://github.com/AndrewM-F/pi-autosuggestions/commit/4885bd3f8e2ba999644a9724722fd6e7d5433b0c))
+
 ## [0.8.30](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.29...pi-autosuggestions-v0.8.30) (2026-11-16)
 
 
