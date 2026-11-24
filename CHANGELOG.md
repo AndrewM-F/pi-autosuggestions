@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.32](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.31...pi-autosuggestions-v0.8.32) (2026-11-24)
+
+
+### Maintenance
+
+* relicense to Apache-2.0 ([#109](https://github.com/AndrewM-F/pi-autosuggestions/issues/109)) ([ac9670a](https://github.com/AndrewM-F/pi-autosuggestions/commit/ac9670adea6a1e988ea8adce0a90ecf4200c2b24))
+
 ## [0.8.31](https://github.com/AndrewM-F/pi-autosuggestions/compare/pi-autosuggestions-v0.8.30...pi-autosuggestions-v0.8.31) (2026-11-23)
 
 
